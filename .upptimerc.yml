@@ -19,15 +19,15 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /upptime
+  cname: status.nativesintech.org
+  # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/nativesintech/upptime/master/natives_in_tech.svg
   name: NiT Status
   introTitle: Status of NiT services
   introMessage: A list of NiT services and their upptime
   navbar:
     - title: Status
-      href: /upptime
+      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
