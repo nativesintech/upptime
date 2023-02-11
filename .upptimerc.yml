@@ -7,10 +7,14 @@ sites:
     url: https://nativesintech.org
   - name: Blog
     url: https://blog.nativesintech.org
+  - name: Talent
+    url: https://talent.nativesintech.org
   - name: Forum
     url: https://forum.nativesintech.org
   - name: Native Owned Businesses
     url: https://businesses.bynatives.app
+  - name: This Land I Stand
+    url: https://thislandistand.app/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,9 +22,9 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: NiT Status
+  introTitle: Status of NiT services
+  introMessage: A list of NiT services and their upptime
   navbar:
     - title: Status
       href: /
