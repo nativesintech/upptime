@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/nativesintech.org.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 364,
-    "timeDay": 1326,
-    "timeWeek": 609,
-    "timeMonth": 364,
-    "timeYear": 364,
-    "dailyMinutesDown": {
-      "2023-03-06": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 360,
+    "timeDay": 1353,
+    "timeWeek": 612,
+    "timeMonth": 360,
+    "timeYear": 360,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blog",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 584,
-    "timeDay": 626,
-    "timeWeek": 452,
-    "timeMonth": 584,
-    "timeYear": 584,
+    "time": 591,
+    "timeDay": 789,
+    "timeWeek": 500,
+    "timeMonth": 591,
+    "timeYear": 591,
     "dailyMinutesDown": {}
   },
   {
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/talent.nativesintech.org.ico",
     "slug": "talent",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 464,
-    "timeDay": 1079,
-    "timeWeek": 596,
-    "timeMonth": 464,
-    "timeYear": 464,
-    "dailyMinutesDown": {
-      "2023-03-06": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 461,
+    "timeDay": 1153,
+    "timeWeek": 611,
+    "timeMonth": 461,
+    "timeYear": 461,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Forum",
@@ -68,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 617,
-    "timeDay": 981,
-    "timeWeek": 627,
-    "timeMonth": 617,
-    "timeYear": 617,
+    "time": 620,
+    "timeDay": 707,
+    "timeWeek": 646,
+    "timeMonth": 620,
+    "timeYear": 620,
     "dailyMinutesDown": {}
   },
   {
@@ -81,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/businesses.bynatives.app.ico",
     "slug": "native-owned-businesses",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 608,
-    "timeDay": 4856,
-    "timeWeek": 1392,
-    "timeMonth": 608,
-    "timeYear": 608,
-    "dailyMinutesDown": {
-      "2023-03-06": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 604,
+    "timeDay": 4958,
+    "timeWeek": 1409,
+    "timeMonth": 604,
+    "timeYear": 604,
+    "dailyMinutesDown": {}
   },
   {
     "name": "This Land I Stand",
@@ -101,18 +95,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/thislandistand.app.ico",
     "slug": "this-land-i-stand",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 327,
-    "timeDay": 1222,
-    "timeWeek": 470,
-    "timeMonth": 327,
-    "timeYear": 327,
-    "dailyMinutesDown": {
-      "2023-03-06": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 324,
+    "timeDay": 1255,
+    "timeWeek": 455,
+    "timeMonth": 324,
+    "timeYear": 324,
+    "dailyMinutesDown": {}
   }
 ]
