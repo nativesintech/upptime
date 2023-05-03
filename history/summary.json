@@ -58,9 +58,9 @@
     "url": "https://forum.nativesintech.org",
     "icon": "https://icons.duckduckgo.com/ip3/forum.nativesintech.org.ico",
     "slug": "forum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 481,
     "timeMonth": 484,
     "timeYear": 535,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-03": 0
+    }
   },
   {
     "name": "Native Owned Businesses",
