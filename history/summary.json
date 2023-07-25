@@ -4,19 +4,19 @@
     "url": "https://nativesintech.org",
     "icon": "https://icons.duckduckgo.com/ip3/nativesintech.org.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 288,
-    "timeDay": 316,
-    "timeWeek": 252,
-    "timeMonth": 325,
-    "timeYear": 288,
+    "time": 287,
+    "timeDay": 250,
+    "timeWeek": 244,
+    "timeMonth": 320,
+    "timeYear": 287,
     "dailyMinutesDown": {
-      "2023-07-25": 1
+      "2023-07-25": 5
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://talent.nativesintech.org",
     "icon": "https://icons.duckduckgo.com/ip3/talent.nativesintech.org.ico",
     "slug": "talent",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 482,
-    "timeDay": 460,
-    "timeWeek": 408,
-    "timeMonth": 545,
-    "timeYear": 482,
+    "time": 483,
+    "timeDay": 509,
+    "timeWeek": 427,
+    "timeMonth": 546,
+    "timeYear": 483,
     "dailyMinutesDown": {
-      "2023-07-25": 0
+      "2023-07-25": 5
     }
   },
   {
