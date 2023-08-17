@@ -94,19 +94,19 @@
     "url": "https://thislandistand.app/",
     "icon": "https://icons.duckduckgo.com/ip3/thislandistand.app.ico",
     "slug": "this-land-i-stand",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 257,
-    "timeDay": 1617,
-    "timeWeek": 520,
-    "timeMonth": 275,
+    "timeDay": 1123,
+    "timeWeek": 477,
+    "timeMonth": 271,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2023-08-17": 0
+      "2023-08-17": 7
     }
   }
 ]
