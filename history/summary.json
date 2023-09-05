@@ -22,19 +22,19 @@
     "url": "https://blog.nativesintech.org",
     "icon": "https://icons.duckduckgo.com/ip3/blog.nativesintech.org.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 615,
     "timeDay": 592,
-    "timeWeek": 640,
-    "timeMonth": 672,
+    "timeWeek": 634,
+    "timeMonth": 670,
     "timeYear": 615,
     "dailyMinutesDown": {
-      "2023-09-05": 0
+      "2023-09-05": 4
     }
   },
   {
