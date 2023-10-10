@@ -4,18 +4,20 @@
     "url": "https://nativesintech.org",
     "icon": "https://icons.duckduckgo.com/ip3/nativesintech.org.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 288,
-    "timeDay": 176,
-    "timeWeek": 168,
-    "timeMonth": 355,
-    "timeYear": 288,
-    "dailyMinutesDown": {}
+    "time": 300,
+    "timeDay": 1712,
+    "timeWeek": 553,
+    "timeMonth": 449,
+    "timeYear": 300,
+    "dailyMinutesDown": {
+      "2023-10-10": 0
+    }
   },
   {
     "name": "Blog",
