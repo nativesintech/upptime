@@ -22,18 +22,20 @@
     "url": "https://blog.nativesintech.org",
     "icon": "https://icons.duckduckgo.com/ip3/blog.nativesintech.org.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 633,
-    "timeDay": 493,
-    "timeWeek": 678,
-    "timeMonth": 646,
-    "timeYear": 633,
-    "dailyMinutesDown": {}
+    "time": 694,
+    "timeDay": 8767,
+    "timeWeek": 2724,
+    "timeMonth": 1175,
+    "timeYear": 694,
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   },
   {
     "name": "Talent",
