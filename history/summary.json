@@ -40,18 +40,20 @@
     "url": "https://talent.nativesintech.org",
     "icon": "https://icons.duckduckgo.com/ip3/talent.nativesintech.org.ico",
     "slug": "talent",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 426,
-    "timeDay": 296,
-    "timeWeek": 343,
-    "timeMonth": 347,
-    "timeYear": 426,
-    "dailyMinutesDown": {}
+    "time": 425,
+    "timeDay": 202,
+    "timeWeek": 313,
+    "timeMonth": 339,
+    "timeYear": 425,
+    "dailyMinutesDown": {
+      "2024-01-03": 0
+    }
   },
   {
     "name": "Forum",
