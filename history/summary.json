@@ -6,18 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 269,
     "timeDay": 319,
     "timeWeek": 250,
     "timeMonth": 209,
     "timeYear": 263,
-    "dailyMinutesDown": {
-      "2024-03-16": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blog",
@@ -44,18 +42,16 @@
     "slug": "talent",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 414,
     "timeDay": 1572,
     "timeWeek": 736,
     "timeMonth": 436,
     "timeYear": 412,
-    "dailyMinutesDown": {
-      "2024-03-16": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Forum",
@@ -80,11 +76,11 @@
     "url": "https://businesses.bynatives.app",
     "icon": "https://icons.duckduckgo.com/ip3/businesses.bynatives.app.ico",
     "slug": "native-owned-businesses",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 310,
     "timeDay": 204,
@@ -92,7 +88,7 @@
     "timeMonth": 321,
     "timeYear": 286,
     "dailyMinutesDown": {
-      "2024-03-16": 5
+      "2024-03-16": 0
     }
   },
   {
@@ -100,11 +96,11 @@
     "url": "https://thislandistand.app/",
     "icon": "https://icons.duckduckgo.com/ip3/thislandistand.app.ico",
     "slug": "this-land-i-stand",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
     "timeDay": 198,
@@ -112,7 +108,7 @@
     "timeMonth": 148,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2024-03-16": 11
+      "2024-03-16": 0
     }
   }
 ]
