@@ -40,19 +40,19 @@
     "url": "https://talent.nativesintech.org",
     "icon": "https://icons.duckduckgo.com/ip3/talent.nativesintech.org.ico",
     "slug": "talent",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 414,
-    "timeDay": 1074,
-    "timeWeek": 662,
-    "timeMonth": 429,
-    "timeYear": 411,
+    "timeDay": 983,
+    "timeWeek": 650,
+    "timeMonth": 432,
+    "timeYear": 412,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 6
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://thislandistand.app/",
     "icon": "https://icons.duckduckgo.com/ip3/thislandistand.app.ico",
     "slug": "this-land-i-stand",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 177,
-    "timeWeek": 138,
+    "timeDay": 172,
+    "timeWeek": 140,
     "timeMonth": 148,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 6
     }
   }
 ]
