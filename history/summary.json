@@ -76,11 +76,11 @@
     "url": "https://businesses.bynatives.app",
     "icon": "https://icons.duckduckgo.com/ip3/businesses.bynatives.app.ico",
     "slug": "native-owned-businesses",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 311,
     "timeDay": 292,
@@ -88,7 +88,7 @@
     "timeMonth": 328,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2024-03-16": 5
+      "2024-03-16": 0
     }
   },
   {
@@ -98,17 +98,15 @@
     "slug": "this-land-i-stand",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
     "timeDay": 177,
     "timeWeek": 138,
     "timeMonth": 148,
     "timeYear": 201,
-    "dailyMinutesDown": {
-      "2024-03-16": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
