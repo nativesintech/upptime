@@ -4,9 +4,9 @@
     "url": "https://nativesintech.org",
     "icon": "https://icons.duckduckgo.com/ip3/nativesintech.org.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 250,
     "timeMonth": 209,
     "timeYear": 263,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "Blog",
@@ -40,9 +42,9 @@
     "url": "https://talent.nativesintech.org",
     "icon": "https://icons.duckduckgo.com/ip3/talent.nativesintech.org.ico",
     "slug": "talent",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 736,
     "timeMonth": 436,
     "timeYear": 412,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "Forum",
@@ -76,19 +80,19 @@
     "url": "https://businesses.bynatives.app",
     "icon": "https://icons.duckduckgo.com/ip3/businesses.bynatives.app.ico",
     "slug": "native-owned-businesses",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 311,
-    "timeDay": 292,
-    "timeWeek": 623,
-    "timeMonth": 328,
+    "timeDay": 269,
+    "timeWeek": 583,
+    "timeMonth": 324,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 9
     }
   },
   {
