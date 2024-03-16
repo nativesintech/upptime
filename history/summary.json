@@ -76,19 +76,19 @@
     "url": "https://businesses.bynatives.app",
     "icon": "https://icons.duckduckgo.com/ip3/businesses.bynatives.app.ico",
     "slug": "native-owned-businesses",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 310,
-    "timeDay": 204,
-    "timeWeek": 630,
-    "timeMonth": 321,
-    "timeYear": 286,
+    "time": 311,
+    "timeDay": 292,
+    "timeWeek": 623,
+    "timeMonth": 328,
+    "timeYear": 287,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 5
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://thislandistand.app/",
     "icon": "https://icons.duckduckgo.com/ip3/thislandistand.app.ico",
     "slug": "this-land-i-stand",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 198,
+    "timeDay": 177,
     "timeWeek": 138,
     "timeMonth": 148,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 4
     }
   }
 ]
