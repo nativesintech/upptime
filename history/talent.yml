@@ -1,7 +1,7 @@
 url: https://talent.nativesintech.org
-status: up
-code: 200
-responseTime: 316
-lastUpdated: 2024-03-16T04:27:31.164Z
+status: down
+code: 500
+responseTime: 338
+lastUpdated: 2024-03-16T04:49:42.998Z
 startTime: 2023-02-11T05:33:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
