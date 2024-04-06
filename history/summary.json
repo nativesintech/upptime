@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 267,
-    "timeDay": 42,
-    "timeWeek": 179,
-    "timeMonth": 236,
-    "timeYear": 262,
+    "timeDay": 223,
+    "timeWeek": 182,
+    "timeMonth": 235,
+    "timeYear": 263,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 680,
-    "timeDay": 485,
-    "timeWeek": 586,
-    "timeMonth": 760,
-    "timeYear": 700,
+    "timeDay": 816,
+    "timeWeek": 634,
+    "timeMonth": 762,
+    "timeYear": 701,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 411,
-    "timeDay": 335,
-    "timeWeek": 301,
-    "timeMonth": 456,
+    "timeDay": 378,
+    "timeWeek": 291,
+    "timeMonth": 455,
     "timeYear": 407,
     "dailyMinutesDown": {}
   },
@@ -60,18 +60,16 @@
     "slug": "forum",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 531,
-    "timeDay": 612,
-    "timeWeek": 517,
-    "timeMonth": 635,
-    "timeYear": 527,
-    "dailyMinutesDown": {
-      "2024-04-05": 8
-    }
+    "timeDay": 689,
+    "timeWeek": 512,
+    "timeMonth": 643,
+    "timeYear": 528,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Native Owned Businesses",
@@ -85,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 305,
-    "timeDay": 139,
-    "timeWeek": 220,
-    "timeMonth": 316,
+    "timeDay": 249,
+    "timeWeek": 239,
+    "timeMonth": 317,
     "timeYear": 279,
     "dailyMinutesDown": {}
   },
@@ -103,9 +101,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
-    "timeDay": 117,
-    "timeWeek": 158,
-    "timeMonth": 148,
+    "timeDay": 264,
+    "timeWeek": 183,
+    "timeMonth": 152,
     "timeYear": 197,
     "dailyMinutesDown": {}
   }
